@@ -2,14 +2,13 @@
 
 ---
 
-[//]: # (Image References)
-
 [image1]: ./images/fcn.png "FNC-8"
 [image2]: ./images/segmented_video.png "Segmented Video"
 [image3]: ./images/original_video.png "Original Video"
 [image4]: ./images/runs_1.png "Run 1"
 [image5]: ./images/runs_2.png "Run 2"
 [image6]: ./images/runs_3.png "Run 3"
+
 ---
 
 ### Introduction
